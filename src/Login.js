@@ -58,6 +58,7 @@ const Login = () => {
   else {
    <Redirect to="/login" />
   }
+  // installed a few packages
   return (
     // if there's no user, show the login form
     <Container component='main' maxWidth='xs'>

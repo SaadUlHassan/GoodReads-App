@@ -12,6 +12,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.21.0",
     "axios-delay": "^1.0.0-rc6",
+    "date-fns": "^2.19.0",
     "hooks": "^0.3.2",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
